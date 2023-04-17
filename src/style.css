@@ -129,3 +129,10 @@ p {
   flex: 0 0 auto;
   width: 50%;
 }
+
+@media (max-width: 576px) {
+  body {
+    background-color: #133335;
+    color: #00c6c2;
+  }
+}
